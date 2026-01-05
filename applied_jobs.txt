@@ -1,5 +1,3 @@
-Applied jobs – do not suggest again
-
 Company	Job Title	Location	Apply Date	Close/Expired Date	Source	Job Link	Status	Contact Name/Email	Top 5 Needs	Notes
 MISS DIG 811	Data Analyst	Lansing	11/5/2025		Indeed		Applied			
 Initiate Government Solutions	Integration/Data Engineer I	Washington	9/17/2025	Closed	Indeed		Applied			Expired on Indeed
